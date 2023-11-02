@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>729193300654-lb9k0b857o2rmlnqdd36po49anuuubqt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.729193300654-lb9k0b857o2rmlnqdd36po49anuuubqt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>729193300654-4taat8jof13fica4knkvmh3ma03666qr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCPnb6rgOF6M6dpeX0EJ5Iz7LsDjA98UU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>729193300654</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.addworld</string>
+	<key>PROJECT_ID</key>
+	<string>champcash-40e9d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>champcash-40e9d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:729193300654:ios:e7a2bd0d15e362fa79633f</string>
+	<key>DATABASE_URL</key>
+	<string>https://champcash-40e9d-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
